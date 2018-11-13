@@ -1,3 +1,5 @@
+#打开index.html文件即可浏览，电脑端打开请按F12手机端正常浏览.
+
 ##之后传递会以时间加完成任务，搞定了分支
 
 #10.26上请查看网址   https://www.w3cplus.com/mobile/vw-layout-in-vue.html  
