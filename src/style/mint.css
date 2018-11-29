@@ -1,0 +1,58 @@
+.double .mint-switch{
+  position:absolute;
+  right:0.16rem;
+  top:-0.64rem;
+}
+.mint-switch{
+  position:absolute;
+  right:0.16rem;
+  top:0.08rem;
+}
+.mint-switch-input:checked + .mint-switch-core{
+  border-color:#41D860;
+  background-color:#41D860;
+}
+.mint-switch-core{
+  width:0.85rem;
+  height:0.52rem;
+}
+.mint-switch-core::before{
+  width:0.85rem;
+  height:0.52rem;
+}
+.mint-switch-core::after{
+  width:0.52rem;
+  height:0.52rem;
+}
+
+.mt-range{
+  width:60%;
+  position:absolute;
+  left:32%;
+  line-height:0.5rem;
+  height:0.5rem;
+  padding-top:0.1rem;
+}
+.mt-range-runway{
+  position: absolute;
+  right:0;
+}
+.mt-range-thumb{
+  width:0.46rem;
+  height:0.46rem;
+}
+.pinlv{
+  position:absolute;
+  right:0.06rem;
+}
+
+.mint-popup {
+  width:80%;
+}
+
+.mint-radiolist-title {
+  font-size: 20px;
+  text-align:center;
+  display: block;
+  color: #888;
+}
